@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"github.com/mitchellh/cli"
-	"github.com/patricklecuyer/cr460-lab1/config"
-	"github.com/patricklecuyer/cr460-lab1/router"
+	"github.com/patricklecuyer/cr460-h2017test/config"
+	"github.com/patricklecuyer/cr460-h2017test/router"
 )
 
 // CR460ServerCommand Server API Command
